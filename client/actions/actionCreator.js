@@ -2,7 +2,7 @@
     export function increment(index){
         return{
             type:"ICREMENT_LIKES",
-            index
+            index:index
         }
     }
 //Add Comment
